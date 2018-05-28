@@ -1,5 +1,6 @@
 import {changeColor} from "./homepage.js";
 
+import "./styles/main.css";
 
 console.log("heeeey");
 
